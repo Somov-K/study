@@ -11,3 +11,16 @@ C:\Users\Кирилл\source\repos\Study CVS\Study CVS\obj\Debug\netcoreapp3.1\S
 C:\Users\Кирилл\source\repos\Study CVS\Study CVS\obj\Debug\netcoreapp3.1\Study CVS.dll
 C:\Users\Кирилл\source\repos\Study CVS\Study CVS\obj\Debug\netcoreapp3.1\Study CVS.pdb
 C:\Users\Кирилл\source\repos\Study CVS\Study CVS\obj\Debug\netcoreapp3.1\Study CVS.genruntimeconfig.cache
+C:\Users\Кирилл\Source\Repos\Somov-K\study\Study CVS\Study CVS\bin\Debug\netcoreapp3.1\Study CVS.exe
+C:\Users\Кирилл\Source\Repos\Somov-K\study\Study CVS\Study CVS\bin\Debug\netcoreapp3.1\Study CVS.deps.json
+C:\Users\Кирилл\Source\Repos\Somov-K\study\Study CVS\Study CVS\bin\Debug\netcoreapp3.1\Study CVS.runtimeconfig.json
+C:\Users\Кирилл\Source\Repos\Somov-K\study\Study CVS\Study CVS\bin\Debug\netcoreapp3.1\Study CVS.runtimeconfig.dev.json
+C:\Users\Кирилл\Source\Repos\Somov-K\study\Study CVS\Study CVS\bin\Debug\netcoreapp3.1\Study CVS.dll
+C:\Users\Кирилл\Source\Repos\Somov-K\study\Study CVS\Study CVS\bin\Debug\netcoreapp3.1\Study CVS.pdb
+C:\Users\Кирилл\Source\Repos\Somov-K\study\Study CVS\Study CVS\obj\Debug\netcoreapp3.1\Study CVS.csprojAssemblyReference.cache
+C:\Users\Кирилл\Source\Repos\Somov-K\study\Study CVS\Study CVS\obj\Debug\netcoreapp3.1\Study CVS.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Source\Repos\Somov-K\study\Study CVS\Study CVS\obj\Debug\netcoreapp3.1\Study CVS.AssemblyInfo.cs
+C:\Users\Кирилл\Source\Repos\Somov-K\study\Study CVS\Study CVS\obj\Debug\netcoreapp3.1\Study CVS.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Source\Repos\Somov-K\study\Study CVS\Study CVS\obj\Debug\netcoreapp3.1\Study CVS.dll
+C:\Users\Кирилл\Source\Repos\Somov-K\study\Study CVS\Study CVS\obj\Debug\netcoreapp3.1\Study CVS.pdb
+C:\Users\Кирилл\Source\Repos\Somov-K\study\Study CVS\Study CVS\obj\Debug\netcoreapp3.1\Study CVS.genruntimeconfig.cache
