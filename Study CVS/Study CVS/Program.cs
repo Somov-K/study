@@ -6,7 +6,9 @@ namespace Study_CVS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Введите свое имя: ");
+            string x = Console.ReadLine();
+            Console.WriteLine($"Привет, {x}!");
         }
     }
 }
