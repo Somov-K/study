@@ -11,7 +11,7 @@ namespace Study_CVS
             Console.WriteLine($"Привет, {x}!");
             Console.WriteLine("Чтобы продолжить введите ваш IQ ");
             int y = Convert.ToInt32(Console.ReadLine());
-            if (y > 150) 
+            if (y > 150) // проверка введенного IQ пользователя
             {
                 Console.WriteLine("Вы можете продолжить...");
             }
