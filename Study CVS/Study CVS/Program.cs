@@ -9,7 +9,7 @@ namespace Study_CVS
             Console.Write("Введите свое имя: ");
             string x = Console.ReadLine();
             Console.WriteLine($"Привет, {x}!");
-            Console.WriteLine("Чтобы продолжить введите ваш IQ "); // добавление комментария для создания конфликта
+            Console.WriteLine("Чтобы продолжить введите ваш IQ "); // создание комментария в удаленном репозитории
             int y = Convert.ToInt32(Console.ReadLine());
             if (y > 150) // проверка введенного IQ пользователя
             {
